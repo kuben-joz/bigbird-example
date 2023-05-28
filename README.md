@@ -6,4 +6,4 @@
 
 This will init the model, run a forward and back call and sleep for 20 seconds so that the memory usage can be seen in nvidia-smi.
 
-Wtih 40GB of memory I can just about get a forwards call with a batch size of 4
+With 40GB of memory I can just about get a forwards call with a batch size of 4
